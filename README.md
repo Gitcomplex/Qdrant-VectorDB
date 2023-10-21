@@ -1,7 +1,3 @@
-Certainly! Here's a `README.md` content for your code:
-
----
-
 # Ask Qdrant - Remote Database Querying with AI
 
 ## Introduction
